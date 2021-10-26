@@ -13,7 +13,7 @@ Documentation is not available yet.
 ## Getting started
 
 Download repository.
-Install clang, binutils, make and nasm
+Install clang, binutils, make and nasm<br/>
 Run `make all`
 
 ### System Requirements
